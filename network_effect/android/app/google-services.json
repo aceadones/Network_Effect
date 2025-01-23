@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "887842435037",
+    "project_id": "techartus",
+    "storage_bucket": "techartus.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887842435037:android:cb4e95578fdc9281ec5034",
+        "android_client_info": {
+          "package_name": "com.touchtap.network_effect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkUxgpGT-L2jNLLVSNIcSZBB0iApTQx9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
